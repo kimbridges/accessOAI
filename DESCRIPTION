@@ -1,0 +1,10 @@
+Package: accessOAI
+Title: Use the OpenAI API Inside R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kim", "Bridges", , "kim.bridges@gmail.com", role = c("aut", "cre"))
+Description: Use OpenAI via ChatGPT to ask a question using its database or analyze text and images that you have provided.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
